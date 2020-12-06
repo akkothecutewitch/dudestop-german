@@ -1,5 +1,6 @@
 # dudestop-german
 Fanmade translation of "Dude, Stop" to German
+Files are in Releases
 
 Progress:
 - Awards.xml - 100% completed
